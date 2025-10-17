@@ -1,0 +1,1 @@
+Classic Asteroid game! If you're bored and looking to clone an entire github repository for the sake of playing Asteroids in your shell, well then do I have a repo for you! The game is lacking a scoring system, different weapons, new backgrounds, etc., but it is a current WIP. New features will be added!
